@@ -1,3 +1,6 @@
+# Cursor IDE folder
+.cursor/
+
 # Logs
 logs
 *.log
